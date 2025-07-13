@@ -15,3 +15,5 @@ print('Сделал эти изменения в ветке fix/login-auth')
 print('Code from Abdullah')
 
 print('New code from Abdullah')
+
+print('Change logic')
