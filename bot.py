@@ -30,3 +30,5 @@ print('Cinema 1')
 print('Cinema 2')
 
 print('Cinema 3')
+
+print('1')
