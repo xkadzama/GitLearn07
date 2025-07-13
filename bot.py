@@ -24,3 +24,7 @@ print('Absolute new code')
 print('Absoule code v2 in test-branch')
 
 print('And last one absolute')
+
+print('Cinema 1')
+
+print('Cinema 2')
