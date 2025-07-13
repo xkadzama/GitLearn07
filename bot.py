@@ -22,3 +22,5 @@ print('Change logic')
 print('Absolute new code')
 
 print('Absoule code v2 in test-branch')
+
+print('And last one absolute')
